@@ -4,4 +4,5 @@ pyaesni
 psutil
 speedtest-cli
 https://github.com/1Danish-00/Telethon/archive/master.zip
+lxml_html_clean
 html_telegraph_poster
